@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luiz Nogueira
+# 👋 Olá, eu sou Luiz Nogueira mais conhecido como Luiz Tenã
 
 💻 **Desenvolvedor Web**  
 🌱 **Tecnologia aplicada à Agronomia e Pesquisa Científica**
@@ -20,11 +20,10 @@ Minha principal área de interesse é a **integração entre tecnologia e agrono
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript, PHP, SQL  
+- **Front-end:** HTML, CSS, JavaScript, PHP, SQL  
+- **Back-end:** PHP, SQL
 - **Dados:** JSON  
 - **Versionamento:** Git & GitHub  
-- **Outros:** GitHub Pages, organização de projetos front-end
-
 ---
 
 ## 🌿 Projetos em destaque
@@ -38,7 +37,7 @@ Atualmente aprofundando conhecimentos em:
 - Estruturação de dados para aplicações científicas
 - Performance e escalabilidade no front-end
 - Automação de geração de páginas a partir de dados
-
+- Arquitetura de Software
 ---
 
 📫 **Contato:**  
