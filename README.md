@@ -20,7 +20,7 @@ Minha principal área de interesse é a **integração entre tecnologia e agrono
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Front-end:** HTML, CSS, JavaScript, PHP, SQL  
+- **Front-end:** HTML, CSS, JavaScript 
 - **Back-end:** PHP, SQL
 - **Dados:** JSON  
 - **Versionamento:** Git & GitHub  
